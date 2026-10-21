@@ -58,7 +58,7 @@ kept. Trees need no feature scaling and accept text labels directly.
 
 
 
-![Pruned tree](images/pruned_tree_placeholder.png)
+![Pruned tree](images/tree_pruned.png)
 
 
 
